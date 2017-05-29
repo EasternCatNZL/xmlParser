@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE BusinessCard
+[
+	<!ELEMENT BusinessCard (Name, phone+, email?)>
+	
+	<!ELEMENT Name (#PCDATA)>
+	
+	<!ELEMENT phone (#PCDATA)>
+	
+	<!ATTLIST phone type (mobile|fax|work) #REQUIRED>
+	
+	<!ELEMENT email (#PCDATA)>
+	
+	<!ENTITY publisher "Media Design School">
+	<!ENTITY copyright  "MDS">
+	
+	
+	
+]>
+
+<BusinessCard>
+  <Name>Imran  Khaliq, &publisher;</Name>
+	<phone type="mobile">(+64) 021 4567890</phone>
+	<phone type="work">(09) 9876543</phone>
+	<phone type="fax">(510) 3737-1234</phone>
+	<email>imran.khaliq@mediadesignschool.com</email>
+	
+</BusinessCard>
+
+
+<!--<img src="Relax.jpg" style="width:344px;height:268px;"/>-->
