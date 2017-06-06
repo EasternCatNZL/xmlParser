@@ -14,8 +14,14 @@ public:
 	void ConvertXMLToCSV();
 
 private:
+	//bool checks to see if found parts of file
+	bool docTypeFound;
+	bool elementsFound;
+	bool allElementsFound;
+
 	std::string wholeFile;
 	std::string copyFile;
+	std::string docType;
 	std::vector<std::string> headingsVector;
 	std::vector<std::string> gameTitleVector;
 	std::vector<std::string> genreVector;

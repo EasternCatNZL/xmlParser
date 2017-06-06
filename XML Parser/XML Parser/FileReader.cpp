@@ -52,12 +52,29 @@ void FileReader::ConvertXMLToCSV()
 	//copy over whole file
 	copyFile = wholeFile;
 	//check file has xml header
-	std::string xmlHeader = "xml";
-	std::size_t checkHeader = copyFile.find(xmlHeader);
+	std::size_t checkHeader = copyFile.find("xml");
 	//if can't find before end of whole string return out
 	if (checkHeader == std::string::npos) {
+		std::cout << "No xml header found" << std::endl;
 		return;
 	}
 	//find the doctype
+	std::size_t doctypeIndex = copyFile.find("DOCTYPE");
+	//if doctype found, cut off everything up to the doctype and get doctype
+	if (doctypeIndex != std::string::npos) {
+		copyFile.erase(0, doctypeIndex + 7);
+		//find next space, end of doctype
+		std::size_t endOfDocTypeIndex = copyFile.find(" ");
+		//substring the doctype
+		docType = copyFile.substr(0, endOfDocTypeIndex - 1);
+		////set found doctype to true
+		//docTypeFound = true;
+
+	}
+	else {
+		//return cant find doctype
+		std::cout << "No doctype specified" << std::endl;
+		return;
+	}
 
 }
