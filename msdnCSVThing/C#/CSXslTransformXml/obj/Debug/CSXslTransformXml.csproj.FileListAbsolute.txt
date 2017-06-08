@@ -1,0 +1,7 @@
+D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\Debug\Books.xml
+D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\Debug\Books.xslt
+D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\Debug\CSXslTransformXml.exe
+D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\Debug\CSXslTransformXml.pdb
+D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\CSXslTransformXml\obj\Debug\CSXslTransformXml.csprojResolveAssemblyReference.cache
+D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\CSXslTransformXml\obj\Debug\CSXslTransformXml.exe
+D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\CSXslTransformXml\obj\Debug\CSXslTransformXml.pdb

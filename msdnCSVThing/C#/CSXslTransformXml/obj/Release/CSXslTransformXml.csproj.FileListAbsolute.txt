@@ -1,0 +1,6 @@
+D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\Release\Books.xml
+D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\Release\Books.xslt
+D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\Release\CSXslTransformXml.exe
+D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\Release\CSXslTransformXml.pdb
+D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\CSXslTransformXml\obj\Release\CSXslTransformXml.exe
+D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\CSXslTransformXml\obj\Release\CSXslTransformXml.pdb
