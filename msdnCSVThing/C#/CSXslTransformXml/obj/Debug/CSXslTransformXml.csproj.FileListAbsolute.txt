@@ -5,3 +5,10 @@ D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\Debug\CSXslTransformXml.pdb
 D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\CSXslTransformXml\obj\Debug\CSXslTransformXml.csprojResolveAssemblyReference.cache
 D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\CSXslTransformXml\obj\Debug\CSXslTransformXml.exe
 D:\Uni Work\MDS\Scripting\XML\msdnCSVThing\C#\CSXslTransformXml\obj\Debug\CSXslTransformXml.pdb
+H:\Scripting\xmlParser\msdnCSVThing\C#\Debug\Books.xml
+H:\Scripting\xmlParser\msdnCSVThing\C#\Debug\Books.xslt
+H:\Scripting\xmlParser\msdnCSVThing\C#\Debug\CSXslTransformXml.exe
+H:\Scripting\xmlParser\msdnCSVThing\C#\Debug\CSXslTransformXml.pdb
+H:\Scripting\xmlParser\msdnCSVThing\C#\CSXslTransformXml\obj\Debug\CSXslTransformXml.csprojResolveAssemblyReference.cache
+H:\Scripting\xmlParser\msdnCSVThing\C#\CSXslTransformXml\obj\Debug\CSXslTransformXml.exe
+H:\Scripting\xmlParser\msdnCSVThing\C#\CSXslTransformXml\obj\Debug\CSXslTransformXml.pdb

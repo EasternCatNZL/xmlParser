@@ -32,3 +32,6 @@
 *.app
 XML Parser/.vs/
 MsdnXML/MsdnXML/.vs/
+msdnCSVThing/C#/.vs/CSXslTransformXml/v14/.suo
+msdnCSVThing/C#/Debug/CSXslTransformXml.pdb
+msdnCSVThing/C#/Debug/CSXslTransformXml.vshost.exe.manifest

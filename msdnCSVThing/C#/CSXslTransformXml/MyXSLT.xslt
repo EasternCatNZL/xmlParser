@@ -18,6 +18,6 @@
         <xsl:value-of select ="','"/>
       </xsl:if>
     </xsl:for-each>
-    <xsl:text>&#xD;&#xa;</xsl:text>
+    <!--<xsl:text>&#xD;&#xa;</xsl:text>-->
   </xsl:template>
 </xsl:stylesheet>
